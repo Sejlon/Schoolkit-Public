@@ -66,10 +66,10 @@ Střední průmyslová škola Brno, Purkyňova, příspěvková organizace
 
 EN - Version
 
-Schoolkit
+# Schoolkit
 Graduation Project – A Cross-Platform School Information System built with Flutter and Firebase
 
-##About the App
+## About the App
 Schoolkit is a mobile school app designed as a simple and clear information system for students, teachers, and administrators. It provides features such as:
 
 - User and role management
@@ -80,7 +80,7 @@ Schoolkit is a mobile school app designed as a simple and clear information syst
 
 The project was created as part of a graduation thesis and demonstrates working with modern technologies like Flutter, Dart, and Firebase (Firestore, Auth).
 
-Installation
+## Installation
 The app is not available on Google Play. If you’d like to try it:
 
 Run from Source Code
@@ -89,13 +89,13 @@ Run from Source Code
 3. Make sure Flutter SDK is installed
 4. Run the app using the command: flutter run
 
-Project Structure
+## Project Structure
 `lib/` – app source code (screens, models, logic)
 `assets/` – images, icons, app backgrounds
 `pubspec.yaml` – dependency, fonts, and assets definitions
 `android/app/google-services.json` – Firebase configuration
 
-Security Notice
+## Security Notice
 To enhance security, all API keys and sensitive files have been removed from the project:
 
 - `/lib/firebase_options.dart` – auto-generated Firebase config file removed
@@ -103,17 +103,17 @@ To enhance security, all API keys and sensitive files have been removed from the
 
 To deploy the app yourself, generate these files using Firebase Console.
 
-Technologies Used
+## Technologies Used
 - Flutter
 - Dart
 - Firebase (Authentication, Firestore, Storage)
 - flutter_launcher_icons
 - intl, http, fluttertoast, flutter_spinkit
 
-Conclusion
+## Conclusion
 The Schoolkit project represents a complete development process from concept to a working application. It was created with a focus on clarity and future scalability. The project can be further expanded with new features.
 
-Author
+## Author
 Štěpán Zobal
 Graduation Project – 2025
 Secondary Industrial School Brno, Purkyňova, Public Institution
