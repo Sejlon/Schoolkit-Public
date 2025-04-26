@@ -47,7 +47,7 @@ Při vlastním nasazení je třeba tyto soubory vygenerovat pomocí Firebase kon
 
 - Flutter
 - Dart
-- Firebase (Authentication, Firestore, Storage)
+- Firebase (Authentication, Firestore)
 - flutter_launcher_icons
 - intl, http, fluttertoast, flutter_spinkit
 
@@ -106,7 +106,7 @@ To deploy the app yourself, generate these files using Firebase Console.
 ## Technologies Used
 - Flutter
 - Dart
-- Firebase (Authentication, Firestore, Storage)
+- Firebase (Authentication, Firestore)
 - flutter_launcher_icons
 - intl, http, fluttertoast, flutter_spinkit
 
